@@ -42,5 +42,8 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 Please make sure to update tests as appropriate.
 
+## Links
+[GITHUB](https://github.com/affanahmad/ngx-runtime-error), [NPM](https://www.npmjs.com/package/ngx-runtime-error)
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
